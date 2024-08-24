@@ -1,0 +1,23 @@
+{
+  "name": "bible-analysis-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ip": "^2.0.1",
+    "openai": "^4.41.0"
+  },
+  "devDependencies": {
+    "@types/ip": "^1.1.3"
+  }
+}
